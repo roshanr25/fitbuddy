@@ -1,0 +1,13 @@
+fitbuddy/
+├── .env
+├── requirements.txt
+├── database.py
+├── models.py
+├── schemas.py
+├── gemini_service.py
+├── main.py
+└── templates/
+    ├── base.html
+    ├── index.html
+    ├── plan.html
+    └── admin.html
